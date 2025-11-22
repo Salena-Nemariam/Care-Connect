@@ -1,0 +1,5 @@
+{
+  "name": "Care Connect",
+  "description": "An AI-powered healthcare companion featuring a medical jargon translator and healthcare resource navigator.",
+  "requestFramePermissions": []
+}
